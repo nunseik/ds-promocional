@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 160" role="img" aria-labelledby="title">
+  <title id="title">DS Promocional</title>
+  <g transform="translate(7 5)">
+    <circle cx="58" cy="58" r="53" fill="#050505"/><circle cx="58" cy="58" r="12" fill="#fff"/>
+    <circle cx="166" cy="58" r="53" fill="#ffba21"/><text x="166" y="79" fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="800">D</text>
+    <circle cx="274" cy="58" r="53" fill="#e5137e"/><text x="274" y="79" fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="800">S</text>
+    <circle cx="382" cy="58" r="53" fill="#12abcc"/><circle cx="382" cy="58" r="12" fill="#fff"/>
+  </g>
+  <text x="240" y="145" fill="#050505" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="9">PROMOCIONAL</text>
+</svg>
